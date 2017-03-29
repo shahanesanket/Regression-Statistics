@@ -1,5 +1,5 @@
 # Regression-Statistics
-This project implements Liner Regression, Logistic Regression model and model selection methods. Also demonstrates the law of large numbers and Central limit theorem.
+This project implements Linear Regression, Logistic Regression model, and model selection methods. The project also demonstrates the law of large numbers and Central Limit Theorem.
 
 1. Regression Models:
 
